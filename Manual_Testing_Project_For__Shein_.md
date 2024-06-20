@@ -181,7 +181,7 @@ The following test conditions were found: <br>
 <h3>1.4. Test Design</h3>
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. 
-The test cases can be accessed here <h3>[teststeps.pdf](documente%2Fteststeps.pdf)</h3>
+The test cases can be accessed here *[teststeps.pdf](documente%2Fteststeps.pdf)*
 
 <h3>1.5 Test Implementation</h3>
 
@@ -228,7 +228,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 <h4>The traceability matrix </h4> was generated and can be found here:
-*[matricetrasabilitate.xlsx](documente%2Fmatricetrasabilitate.xlsx)*
+[matricetrasabilitate.xlsx](documente%2Fmatricetrasabilitate.xlsx)
 
 
 

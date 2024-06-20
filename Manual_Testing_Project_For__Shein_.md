@@ -10,9 +10,9 @@ Tools used: Jira, Zephyr Squad.
 
 The below stories were created in Jira and describe the functional specifications of the "**Account**" module, for which the final project is performed upon.
 
-<h3>[story1.pdf](documente%2Fstory1.pdf)</h3>
-<h3>[story2.pdf](documente%2Fstory2.pdf)</h3>
-<h3>[story3.pdf](documente%2Fstory3.pdf)</h3>
+*[story1.pdf](documente%2Fstory1.pdf)*
+*[story2.pdf](documente%2Fstory2.pdf)*
+*[story3.pdf](documente%2Fstory3.pdf)*
 
 
 **Here you can find the release that was created for this project:**
@@ -209,8 +209,8 @@ Bugs have been created based on the failed tests.
 
 The complete bug reports can be found here:
 
-<h3>[bugreport1.pdf](documente%2Fbugreport1.pdf)</h3>
-<h3>[bugreport2.pdf](documente%2Fbugreport2.pdf)</h3>
+*[bugreport1.pdf](documente%2Fbugreport1.pdf)*
+*[bugreport2.pdf](documente%2Fbugreport2.pdf)*
 
 
 The following is a summary of the bugs that have been found

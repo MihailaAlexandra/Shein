@@ -228,7 +228,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 <h4>The traceability matrix</h4> was generated and can be found here:
-*https://github.com/MihailaAlexandra/Shein/blob/main/documente/matricetrasabilitate.xlsx*
+https://github.com/MihailaAlexandra/Shein/blob/main/documente/matricetrasabilitate.xlsx
 
 
 

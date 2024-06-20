@@ -218,7 +218,7 @@ The following is a summary of the bugs that have been found
 <ul>
 <h3>
 <li>[Duplicate email] Registration with Duplicate Email on Shein Account – Priority Low. Severity Low </li>
-<li> [Deactivate account button] Unable to Deactivate Account on Shein – Priority Low. Severity Low </li> </h3>
+<li>[Deactivate account button] Unable to Deactivate Account on Shein – Priority Low. Severity Low </li> </h3>
 </ul>
 
 

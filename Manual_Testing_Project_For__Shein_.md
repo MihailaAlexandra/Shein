@@ -32,7 +32,7 @@ The test process was performed based on the standard test process as described b
 The Test Plan is designed to describe all details of testing for account module from the Shein application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing,and the risks associated with the plan. The test plan that was created for this project can be found here
-<h3>[testplan..pdf](documente%2Ftestplan..pdf)</h3>
+*[testplan..pdf](documente%2Ftestplan..pdf)*
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 <ul>
@@ -134,10 +134,10 @@ The testing process will be executed based on the application requirements.
 The following test conditions were found: <br>	
 <ul>
 <li>Verify if user can successfully register with unique email and password.</li>
-<li>Verify is system rejects invalid email formats during registration.</li>
+<li>Verify if system rejects invalid email formats during registration.</li>
 <li>Verify if system prevents registration with an email already in use.</li>
 <li>Verify if all required fields are filled during registration.</li>
-<li>Verify is system enforces password strength requirements (e.g., minimum length, special characters).</li>
+<li>Verify if system enforces password strength requirements (e.g., minimum length, special characters).</li>
 <li>Verify if user can deactivate or delete the account.</li>
 <li>Verify if user can log in with correct email/username and password.</li>
 <li>Verify if system  provides error message after multiple failed attempts.</li>
@@ -228,13 +228,13 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 <h4>The traceability matrix </h4> was generated and can be found here:
-<h3>[matricetrasabilitate.xlsx](documente%2Fmatricetrasabilitate.xlsx)</h3>
+*[matricetrasabilitate.xlsx](documente%2Fmatricetrasabilitate.xlsx)*
 
 
 
 
 **Test execution chart** was generated and can be found below. 
-<h3>[Dashboard Shein MAG.pdf](documente%2FDashboard%20Shein%20MAG.pdf)</h3>
+*[Dashboard Shein MAG.pdf](documente%2FDashboard%20Shein%20MAG.pdf)*
 
 
 
